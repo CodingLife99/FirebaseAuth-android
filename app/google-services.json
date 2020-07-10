@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183339330855",
+    "firebase_url": "https://simplelogin-c5125.firebaseio.com",
+    "project_id": "simplelogin-c5125",
+    "storage_bucket": "simplelogin-c5125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183339330855:android:eb3d7f36dd0128aa408d02",
+        "android_client_info": {
+          "package_name": "com.jojo.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183339330855-qsiknlmko16hvhr3oq99i1dh4fovvh1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jojo.firebaselogin",
+            "certificate_hash": "00ccaefd3d1b42dd99681a66a118e5825d5b2c57"
+          }
+        },
+        {
+          "client_id": "183339330855-137u50go46aedko86t2mld2pr0ubqqs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvKtx2eN92ZW7k4Uyp6oy4NJkCHT2etU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183339330855-137u50go46aedko86t2mld2pr0ubqqs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
