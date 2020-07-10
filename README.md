@@ -1,3 +1,3 @@
-# FirebaseAuth-android
+# Firebase Authentication in Android (Signup, Login & Logout)
 
-YouTube https://youtu.be/cS2lms3dNto
+YouTube Link: https://youtu.be/cS2lms3dNto
